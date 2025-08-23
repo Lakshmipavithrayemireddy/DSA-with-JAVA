@@ -1,4 +1,8 @@
-# DSA With JAVA
+# ***------------------------------------------------------------------------------------------------------------DSA With JAVA ------------------------------------------------------------------------------------------------------------*** #
+
+## PRINT STATEMENTS
+<img width="1410" height="266" alt="Screenshot 2025-08-23 223822" src="https://github.com/user-attachments/assets/425a32f4-7603-41c1-93f8-35986039c5ba" />
+
 ## IF ELSE
 <img width="1514" height="615" alt="Screenshot 2025-08-23 154936" src="https://github.com/user-attachments/assets/4f07f64e-0dae-4962-af0b-a3d690d087ea" />
 
@@ -16,4 +20,30 @@
 
 ## OR Operator
 <img width="1394" height="516" alt="Screenshot 2025-08-23 162438" src="https://github.com/user-attachments/assets/0ba47dc5-5e2f-440d-ad53-720bac0f347e" />
+
+## Reverse Of a String
+<img width="1526" height="497" alt="Screenshot 2025-08-23 205804" src="https://github.com/user-attachments/assets/b5e01d6f-77ba-460b-927b-b6456671aa50" />
+
+## Palindrome Method1 (By comparing the string and Reverse of it)
+<img width="1406" height="611" alt="Screenshot 2025-08-23 210600" src="https://github.com/user-attachments/assets/99873934-e90c-4a08-94e0-7e612c958fd3" />
+
+## Palindrome Method2 (By Comparing 1st with last  character )
+<img width="1338" height="661" alt="Screenshot 2025-08-23 212954" src="https://github.com/user-attachments/assets/84171036-d267-45cf-a3d3-85b645fc08a0" />
+
+## SQUARE PATTERN
+<img width="1138" height="545" alt="Screenshot 2025-08-23 215108" src="https://github.com/user-attachments/assets/91218002-a0d7-4064-8e71-d181fb98278e" />
+
+## RECTANGLE PATTERN
+<img width="1145" height="599" alt="Screenshot 2025-08-23 215739" src="https://github.com/user-attachments/assets/cd1f9a7f-4efb-44c3-b7b4-38c6b05bf2b7" />
+
+## PERIMETER STAR PATTERN
+<img width="1271" height="633" alt="Screenshot 2025-08-23 221702" src="https://github.com/user-attachments/assets/7e617283-d4fb-440e-a010-cf2c78f5b92b" />
+
+## REVERSE TRIANGLE PATTERN
+<img width="1292" height="444" alt="Screenshot 2025-08-23 222421" src="https://github.com/user-attachments/assets/35f1cd58-01c1-4c08-b7f7-66ee030cb60a" />
+
+## TRIANGLE PATTERN
+<img width="1286" height="461" alt="Screenshot 2025-08-23 223418" src="https://github.com/user-attachments/assets/aaf7175f-0cec-4cb0-93ea-35cec7d2737e" />
+
+
 
