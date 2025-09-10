@@ -45,5 +45,7 @@
 ## TRIANGLE PATTERN
 <img width="1286" height="461" alt="Screenshot 2025-08-23 223418" src="https://github.com/user-attachments/assets/aaf7175f-0cec-4cb0-93ea-35cec7d2737e" />
 
+## OOPS - HIERARCHIAL INHERITANCE
+<img width="1211" height="814" alt="image" src="https://github.com/user-attachments/assets/67cd7ebb-b604-4e6c-a3e6-8433176295ad" />
 
 
