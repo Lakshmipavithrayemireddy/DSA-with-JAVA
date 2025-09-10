@@ -48,4 +48,7 @@
 ## OOPS - HIERARCHIAL INHERITANCE
 <img width="1211" height="814" alt="image" src="https://github.com/user-attachments/assets/67cd7ebb-b604-4e6c-a3e6-8433176295ad" />
 
+## METHOD OVERLOADING (SAME METHOD but Difference in   1.NO.OF PARAMETERS 2.TYPES OF PARAMETERS  3.ORDER OF PARAMETERS)
+<img width="1337" height="752" alt="image" src="https://github.com/user-attachments/assets/a28c558c-c609-488e-bea4-d865a855eaa3" />
+
 
