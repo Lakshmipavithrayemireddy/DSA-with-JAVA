@@ -51,4 +51,6 @@
 ## METHOD OVERLOADING (SAME METHOD but Difference in   1.NO.OF PARAMETERS 2.TYPES OF PARAMETERS  3.ORDER OF PARAMETERS)
 <img width="1337" height="752" alt="image" src="https://github.com/user-attachments/assets/a28c558c-c609-488e-bea4-d865a855eaa3" />
 
+## METHOD OVERRIDING (SAME METHOD with Same NUMBER, TYPE and ORDER of Parameters)
+<img width="1392" height="770" alt="image" src="https://github.com/user-attachments/assets/4df14f8c-0545-4826-83f4-973d45fe317f" />
 
