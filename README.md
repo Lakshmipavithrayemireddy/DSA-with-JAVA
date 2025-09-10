@@ -54,3 +54,7 @@
 ## METHOD OVERRIDING (SAME METHOD with Same NUMBER, TYPE and ORDER of Parameters)
 <img width="1392" height="770" alt="image" src="https://github.com/user-attachments/assets/4df14f8c-0545-4826-83f4-973d45fe317f" />
 
+## MULTI LEVEL INHERITANCE
+<img width="1473" height="727" alt="image" src="https://github.com/user-attachments/assets/a19eff4f-2898-4a77-b252-d2f36189c2f8" />
+
+
