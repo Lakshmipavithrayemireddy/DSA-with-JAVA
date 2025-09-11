@@ -65,5 +65,8 @@
 <img width="180" height="148" alt="image" src="https://github.com/user-attachments/assets/5eec1cd5-5588-48f4-b02b-7d94c19a4dd2" />
 <img width="1735" height="736" alt="image" src="https://github.com/user-attachments/assets/1232d325-aae2-4574-8a67-b6cdde824f52" />
 
+## INNER CLASS (CLASS INSIDE CLASS)
+<img width="1319" height="762" alt="image" src="https://github.com/user-attachments/assets/8b7c670a-8cd5-4df1-9636-040a72ecc961" />
+
 
 
