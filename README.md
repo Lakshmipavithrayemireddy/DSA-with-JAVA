@@ -46,6 +46,8 @@
 <img width="1286" height="461" alt="Screenshot 2025-08-23 223418" src="https://github.com/user-attachments/assets/aaf7175f-0cec-4cb0-93ea-35cec7d2737e" />
 
 ## OOPS - HIERARCHIAL INHERITANCE
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/ca9bc80f-875c-42cb-ae6b-be0a76d0e8ff" />
+
 <img width="1211" height="814" alt="image" src="https://github.com/user-attachments/assets/67cd7ebb-b604-4e6c-a3e6-8433176295ad" />
 
 ## METHOD OVERLOADING (SAME METHOD but Difference in   1.NO.OF PARAMETERS 2.TYPES OF PARAMETERS  3.ORDER OF PARAMETERS)
@@ -55,6 +57,13 @@
 <img width="1392" height="770" alt="image" src="https://github.com/user-attachments/assets/4df14f8c-0545-4826-83f4-973d45fe317f" />
 
 ## MULTI LEVEL INHERITANCE
+<img width="335" height="150" alt="image" src="https://github.com/user-attachments/assets/93860ff5-00ba-4f66-83c4-4d4f3eb4ab05" />
+
 <img width="1473" height="727" alt="image" src="https://github.com/user-attachments/assets/a19eff4f-2898-4a77-b252-d2f36189c2f8" />
+
+## MULTIPLE INHERITANCE (BY USING INTERFACE)
+<img width="180" height="148" alt="image" src="https://github.com/user-attachments/assets/5eec1cd5-5588-48f4-b02b-7d94c19a4dd2" />
+<img width="1735" height="736" alt="image" src="https://github.com/user-attachments/assets/1232d325-aae2-4574-8a67-b6cdde824f52" />
+
 
 
