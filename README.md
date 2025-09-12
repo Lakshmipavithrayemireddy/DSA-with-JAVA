@@ -72,5 +72,9 @@
 ## STATIC - NON ACcESS MODIFIER(Acessing Variables without Object Creation)
 <img width="1191" height="554" alt="image" src="https://github.com/user-attachments/assets/72893780-23fd-473a-a1a2-d5460e0e4b09" />
 
+## STATIC (INITIALIZING ONCE AND IT STORES DIRECTLY INTO THE CLASS INSTEAD OF OBJECT)
+<img width="1312" height="696" alt="image" src="https://github.com/user-attachments/assets/09b4fc02-82d7-4430-a7cc-66b83df3a9bb" />
+
+
 
 
