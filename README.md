@@ -69,4 +69,8 @@
 <img width="1319" height="762" alt="image" src="https://github.com/user-attachments/assets/8b7c670a-8cd5-4df1-9636-040a72ecc961" />
 
 
+## STATIC - NON ACcESS MODIFIER(Acessing Variables without Object Creation)
+<img width="1191" height="554" alt="image" src="https://github.com/user-attachments/assets/72893780-23fd-473a-a1a2-d5460e0e4b09" />
+
+
 
