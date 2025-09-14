@@ -1,5 +1,7 @@
 # ***------------------------ DSA With JAVA --------------------*** #
 
+
+This repository contains various DSA programs implemented in Java, organized by topics. Each program includes its code and corresponding output to help understand how it works. It’s intended to track my learning progress and can also be helpful for others who are learning DSA with Java.
 ## PRINT STATEMENTS
 <img width="1410" height="266" alt="Screenshot 2025-08-23 223822" src="https://github.com/user-attachments/assets/425a32f4-7603-41c1-93f8-35986039c5ba" />
 
