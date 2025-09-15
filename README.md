@@ -82,6 +82,7 @@ This repository contains various DSA programs implemented in Java, organized by 
 
 ## Inner Class can be static,  STATIC METHODS cannot access non-static members
 <img width="1576" height="729" alt="image" src="https://github.com/user-attachments/assets/71bd6ac6-ed41-4e78-895d-9ea57d9cc70f" />
+<img width="1919" height="721" alt="image" src="https://github.com/user-attachments/assets/c7d0ec9a-e06c-4cb7-ba0b-e5427798acaa" />
 
 
 
