@@ -90,5 +90,9 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## INHERITANCE & OVERIDING IS NOT POSSIBLE WITH STATIC METHODS
 <img width="1559" height="746" alt="image" src="https://github.com/user-attachments/assets/6a069c77-8fb7-4c0a-b4a4-8e88317e5d5e" />
 
+## FINAL KEYWORD MAKES VARIABLE CONSTANT
+<img width="1441" height="595" alt="image" src="https://github.com/user-attachments/assets/81c617c3-cdd5-4ab2-b8de-413c1f36364c" />
+<img width="1741" height="593" alt="image" src="https://github.com/user-attachments/assets/802b5166-3eb9-4064-813b-70ef0f963774" />
+
 
 
