@@ -80,6 +80,9 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## STATIC VARIABLES
 <img width="1343" height="796" alt="image" src="https://github.com/user-attachments/assets/a3b9d7e0-82e1-43b5-95c8-e0014d051ed8" />
 
+## Inner Class can be static,  STATIC METHODS cannot access non-static members
+<img width="1576" height="729" alt="image" src="https://github.com/user-attachments/assets/71bd6ac6-ed41-4e78-895d-9ea57d9cc70f" />
+
 
 
 
