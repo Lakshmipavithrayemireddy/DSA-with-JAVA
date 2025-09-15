@@ -94,5 +94,7 @@ This repository contains various DSA programs implemented in Java, organized by 
 <img width="1441" height="595" alt="image" src="https://github.com/user-attachments/assets/81c617c3-cdd5-4ab2-b8de-413c1f36364c" />
 <img width="1741" height="593" alt="image" src="https://github.com/user-attachments/assets/802b5166-3eb9-4064-813b-70ef0f963774" />
 
+## FINAL METHODS CANNOT BE OVERRIDDEN
+<img width="1919" height="766" alt="image" src="https://github.com/user-attachments/assets/3ec7f20f-6b32-4d33-b0e2-f67b219e81b4" />
 
 
