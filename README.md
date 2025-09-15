@@ -87,4 +87,8 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## DIFFERENT WAYS OF OBJECT CREATION
 <img width="1536" height="827" alt="image" src="https://github.com/user-attachments/assets/ff1694d7-d9dd-4d47-9c7d-bfc894e73338" />
 
+## INHERITANCE & OVERIDING IS NOT POSSIBLE WITH STATIC METHODS
+<img width="1559" height="746" alt="image" src="https://github.com/user-attachments/assets/6a069c77-8fb7-4c0a-b4a4-8e88317e5d5e" />
+
+
 
