@@ -77,6 +77,9 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## STATIC (INITIALIZING ONCE AND IT STORES DIRECTLY INTO THE CLASS INSTEAD OF OBJECT)
 <img width="1312" height="696" alt="image" src="https://github.com/user-attachments/assets/09b4fc02-82d7-4430-a7cc-66b83df3a9bb" />
 
+## STATIC VARIABLES
+<img width="1343" height="796" alt="image" src="https://github.com/user-attachments/assets/a3b9d7e0-82e1-43b5-95c8-e0014d051ed8" />
+
 
 
 
