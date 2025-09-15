@@ -97,4 +97,8 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## FINAL METHODS CANNOT BE OVERRIDDEN
 <img width="1919" height="766" alt="image" src="https://github.com/user-attachments/assets/3ec7f20f-6b32-4d33-b0e2-f67b219e81b4" />
 
+## FINAL CLASS CAN'T BE EXTENDED OR INHERITED
+<img width="1916" height="738" alt="image" src="https://github.com/user-attachments/assets/5f4ec3cb-eb6f-4a48-a67a-6604d5ce7171" />
+
+
 
