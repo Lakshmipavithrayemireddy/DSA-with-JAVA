@@ -100,5 +100,9 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## FINAL CLASS CAN'T BE EXTENDED OR INHERITED
 <img width="1916" height="738" alt="image" src="https://github.com/user-attachments/assets/5f4ec3cb-eb6f-4a48-a67a-6604d5ce7171" />
 
+# ABSTRACT
+## If a class is abstract class we cannot directly create its object. It should be extended by other class.
+<img width="1691" height="660" alt="image" src="https://github.com/user-attachments/assets/d9fafc2c-1ecc-4ef5-8de6-80e4e19d0a4c" />
+<img width="1438" height="659" alt="image" src="https://github.com/user-attachments/assets/8bde7611-fad6-4119-8b88-a84c44af75fc" />
 
 
