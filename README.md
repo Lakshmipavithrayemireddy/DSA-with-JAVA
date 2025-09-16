@@ -105,4 +105,11 @@ This repository contains various DSA programs implemented in Java, organized by 
 <img width="1691" height="660" alt="image" src="https://github.com/user-attachments/assets/d9fafc2c-1ecc-4ef5-8de6-80e4e19d0a4c" />
 <img width="1438" height="659" alt="image" src="https://github.com/user-attachments/assets/8bde7611-fad6-4119-8b88-a84c44af75fc" />
 
+## Abstract class can contain both abstract methods and normal methods.
+## Abstract methods are method without implementation ( only declaration). These should be overrided by subclass.
+## Abstract methods can only be created inside abstract class
+<img width="1690" height="722" alt="image" src="https://github.com/user-attachments/assets/96d5577e-b01e-4ba8-800e-ea4dfe88970d" />
+<img width="1608" height="771" alt="image" src="https://github.com/user-attachments/assets/f5f78619-1d12-46e7-9d51-d7c7e158430d" />
+<img width="1916" height="721" alt="image" src="https://github.com/user-attachments/assets/0b2d9df6-ce76-4541-b325-37fe32e2b3ee" />
+
 
