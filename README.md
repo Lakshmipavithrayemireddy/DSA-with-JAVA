@@ -118,6 +118,10 @@ This repository contains various DSA programs implemented in Java, organized by 
 <img width="1382" height="736" alt="image" src="https://github.com/user-attachments/assets/cfcfffbd-96bc-46a4-b612-9d98c96d113a" />
 <img width="1373" height="701" alt="image" src="https://github.com/user-attachments/assets/ec0e5b6f-2dbd-4686-b792-c385e2fa818a" />
 
+## Maximum Difference Between Increasing Elements
+<img width="1499" height="705" alt="image" src="https://github.com/user-attachments/assets/3328b67a-97f9-492c-803a-f3d2cd7fa2f3" />
+
+
 
 
 
