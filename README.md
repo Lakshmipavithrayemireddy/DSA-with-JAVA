@@ -20,6 +20,8 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## STRING ARRAY AS INPUT WITH SENTENCES AS ELEMENTS
 <img width="1502" height="679" alt="image" src="https://github.com/user-attachments/assets/ad9d47cb-4800-4754-a333-0ace89619d59" />
 
+## PROGRAM FOR SPECIFIC TABLE
+<img width="1404" height="570" alt="image" src="https://github.com/user-attachments/assets/14e0ed4e-1d14-4aac-b702-2851cc2324b3" />
 
 ## IF ELSE
 <img width="1514" height="615" alt="Screenshot 2025-08-23 154936" src="https://github.com/user-attachments/assets/4f07f64e-0dae-4962-af0b-a3d690d087ea" />
