@@ -5,6 +5,22 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## PRINT STATEMENTS
 <img width="1410" height="266" alt="Screenshot 2025-08-23 223822" src="https://github.com/user-attachments/assets/425a32f4-7603-41c1-93f8-35986039c5ba" />
 
+## INTEGER AS INPUT
+<img width="1428" height="297" alt="image" src="https://github.com/user-attachments/assets/f081b291-0364-40ca-a7b8-c7df812ea086" />
+
+## STRINGS AS INPUT
+<img width="1424" height="491" alt="image" src="https://github.com/user-attachments/assets/1d5bf1c3-0bc5-43aa-a4ea-0a357cbc3d84" />
+
+## INEGER ARRAY AS INPUT
+<img width="1449" height="629" alt="image" src="https://github.com/user-attachments/assets/814ab467-0158-431a-900d-209d92ec72d4" />
+
+## STRING ARRAY AS INPUT WITH WORDS AS ELEMENTS
+<img width="1401" height="635" alt="image" src="https://github.com/user-attachments/assets/26ec2789-4a55-4771-9596-7062a5979765" />
+
+## STRING ARRAY AS INPUT WITH SENTENCES AS ELEMENTS
+<img width="1502" height="679" alt="image" src="https://github.com/user-attachments/assets/ad9d47cb-4800-4754-a333-0ace89619d59" />
+
+
 ## IF ELSE
 <img width="1514" height="615" alt="Screenshot 2025-08-23 154936" src="https://github.com/user-attachments/assets/4f07f64e-0dae-4962-af0b-a3d690d087ea" />
 
