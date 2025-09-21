@@ -139,8 +139,17 @@ This repository contains various DSA programs implemented in Java, organized by 
 ## Maximum Difference Between Increasing Elements
 <img width="1499" height="705" alt="image" src="https://github.com/user-attachments/assets/3328b67a-97f9-492c-803a-f3d2cd7fa2f3" />
 
-## SORTING ARRAY ELEMENTS
-<img width="1474" height="763" alt="image" src="https://github.com/user-attachments/assets/4ce4e929-a26c-4984-a264-a5ff3b9b20d8" />
+## SORTING ARRAY ELEMENTS (BUBBLE SORT)
+<img width="1375" height="742" alt="image" src="https://github.com/user-attachments/assets/4e44f62d-8e06-4734-92a9-8f090e80ff67" />
+
+## DESCENDING SORT
+<img width="1377" height="731" alt="image" src="https://github.com/user-attachments/assets/1486fc0b-7daa-4285-928d-507830e908d0" />
+
+## OPTIMISED ARRAY SORTING
+<img width="1335" height="614" alt="image" src="https://github.com/user-attachments/assets/584def8b-8126-4ce1-bfb3-47d4963389a1" />
+
+
+
 
 
 
